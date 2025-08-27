@@ -1,0 +1,2 @@
+cargo:rerun-if-changed=build.rs
+cargo:rustc-env=DEBUG_OUTPUT_DIR=/home/llyas/Documents/rust/indent-rainbow/target/release/build/wit-bindgen-rust-macro-7be454e749f5e7d3/out
