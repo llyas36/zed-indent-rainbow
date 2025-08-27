@@ -8,7 +8,7 @@ Currently, this is a minimal dev extension skeleton — the highlighting logic w
 1. Clone this repo:
 
 ```bash
-git clone https://github.com/yourusername/zed-indent-rainbow.git
+git clone https://github.com/llyas36/zed-indent-rainbow.git
 cd zed-indent-rainbow
 ```
 ## Build the extension:
